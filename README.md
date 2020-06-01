@@ -1,1 +1,2 @@
 ~/.Xmodmap
+~/.xprofile
