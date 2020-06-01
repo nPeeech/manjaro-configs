@@ -5,6 +5,6 @@ export GTK_IM_MODULE=fcitx
 export QT_IM_MODULE=fcitx
 export DefaultIMModule=fcitx
 
-xinput disable "ETPS/2 Elantech Touchpad"
+xinput disable "Elan Touchpad"
+xinput --set-prop "Elan TrackPoint" 'libinput Accel Speed' 0.7
 
-fcitx
