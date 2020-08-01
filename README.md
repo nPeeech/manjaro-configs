@@ -1,2 +1,3 @@
 ~/.Xmodmap
 ~/.xprofile
+~/.xbindkeysrc
