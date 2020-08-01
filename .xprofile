@@ -6,6 +6,6 @@ export QT_IM_MODULE=fcitx
 export DefaultIMModule=fcitx
 
 xinput disable "Elan Touchpad"
-xinput --set-prop "Elan TrackPoint" 'libinput Accel Speed' 0.7
+xinput --set-prop "Elan TrackPoint" 'libinput Accel Speed' 0.4
 xbindkeys -p
 
